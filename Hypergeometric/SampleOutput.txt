@@ -1,0 +1,32 @@
+Hypergeometric Distribution
+
+N = population size
+K = population successes
+n = draws
+x = successes
+
+Enter N: 20
+Enter K: 10
+Enter n: 5
+Enter x: 3
+
+PMF, CDF, and CCDF
+pX(3) = 0.3482972136222918
+FX(3) = 0.8482972136222925
+FXc(3) = 0.15170278637770912
+
+Mean, Median, and Mode
+E(X) = 2.5
+Med(X) = 2.0
+Mode(X) = 3.0
+
+Variance and Standard Deviation
+Var(X) = 0.9868421052631579
+SD(X) = 0.9933992677987828
+
+Skewness and Kurtosis
+Skew(X) = 0.0
+Kurt(X) = -0.24313725490196078
+
+Entropy
+H(X) = 1.4101789925890316
