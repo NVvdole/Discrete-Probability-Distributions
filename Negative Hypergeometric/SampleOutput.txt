@@ -1,0 +1,32 @@
+Negative Hypergeometric Distribution
+
+N = population size
+K = population successes
+r = failures
+x = successes
+
+Enter N: 20
+Enter K: 10
+Enter r: 2
+Enter x: 3
+
+PMF, CDF, and CCDF
+pX(3) = 0.13931888544891635
+FX(3) = 0.8482972136222906
+FXc(3) = 0.1517027863777094
+
+Mean, Median, and Mode
+E(X) = 1.8181818181818181
+Med(X) = 2.0
+Mode(X) = 1.0
+
+Variance and Standard Deviation
+Var(X) = 2.6033057851239665
+SD(X) = 1.6134763044817133
+
+Skewness and Kurtosis
+Skew(X) = 0.940504991159427
+Kurt(X) = 0.6525728240013948
+
+Entropy
+H(X) = 1.7584902516442142
