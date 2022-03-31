@@ -1,0 +1,83 @@
+Multinomial Distribution
+
+n = trials
+p1 = Category 1 success probability
+p2 = Category 2 success probability
+p3 = Category 3 success probability
+x1 = Category 1 successes
+x2 = Category 2 successes
+x3 = Category 3 successes
+
+Enter n: 6
+Enter p1: 0.2
+Enter p2: 0.3
+Enter p3: 0.5
+Enter x1: 1
+Enter x2: 2
+Enter x3: 3
+
+PMFs
+pX1,X2,X3(1, 2, 3) = 0.13500000000000018
+pX1(1) = 0.39321600000000007
+pX2(2) = 0.3241349999999999
+pX3(3) = 0.31249999999999983
+
+CDFs
+FX1(1) = 0.6553599999999997
+FX2(2) = 0.74431
+FX3(3) = 0.65625
+
+CCDFs
+FX1c(1) = 0.3446400000000002
+FX2c(2) = 0.2556899999999999
+FX3c(3) = 0.34375
+
+Means
+E(X1) = 1.2000000000000002
+E(X2) = 1.7999999999999998
+E(X3) = 3.0
+
+Medians
+Med(X1) = 1.0
+Med(X2) = 2.0
+Med(X3) = 3.0
+
+Modes
+Mode(X1) = 1.0
+Mode(X2) = 2.0
+Mode(X3) = 3.0
+
+Variances
+Var(X1) = 0.9600000000000002
+Var(X2) = 1.2599999999999998
+Var(X3) = 1.5
+
+Standard Deviations
+SD(X1) = 0.9797958971132713
+SD(X2) = 1.1224972160321822
+SD(X3) = 1.224744871391589
+
+Skewnesses
+Skew(X1) = 0.6123724356957945
+Skew(X2) = 0.3563483225498993
+Skew(X3) = 0.0
+
+Kurtoses
+Kurt(X1) = 0.04166666666666646
+Kurt(X2) = -0.20634920634920623
+Kurt(X3) = -0.3333333333333333
+
+Entropies
+H(X1) = 1.3425774508710622
+H(X2) = 1.5109781376341773
+H(X3) = 1.6173633156271283
+
+Covariances
+Cov(X1, X2) = -0.36000000000000004
+Cov(X1, X3) = -0.6000000000000001
+Cov(X2, X3) = -0.8999999999999999
+
+Correlation Coefficients
+Corr(X1, X2) = -0.3273268353539886
+Corr(X1, X3) = -0.5000000000000001
+Corr(X2, X3) = -0.6546536707079773
