@@ -1,0 +1,28 @@
+Poisson Distribution
+
+λ = average rate of success
+x = successes
+
+Enter λ: 2.5
+Enter x: 3
+
+PMF, CDF, and CCDF
+pX(3) = 0.21376301724973648
+FX(3) = 0.7575761331330662
+FXc(3) = 0.2424238668669339
+
+Mean, Median, and Mode
+E(X) = 2.5
+Med(X) = 2.0
+Mode(X) = 2.0
+
+Variance and Standard Deviation
+Var(X) = 2.5
+SD(X) = 1.5811388300841898
+
+Skewness and Kurtosis
+Skew(X) = 0.6324555320336759
+Kurt(X) = 0.4
+
+Entropy
+H(X) = 1.8307266079269722
