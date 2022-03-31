@@ -1,28 +1,32 @@
-Geometric Distribution 2
+Hypergeometric Distribution
 
-p = success probability
-y = failures
+N = population size
+K = population successes
+n = draws
+x = successes
 
-Enter p: 0.5
-Enter y: 4
+Enter N: 20
+Enter K: 10
+Enter n: 5
+Enter x: 3
 
 PMF, CDF, and CCDF
-pY(4) = 0.03125
-FY(4) = 0.96875
-FYc(4) = 0.03125
+pX(3) = 0.3482972136222918
+FX(3) = 0.8482972136222925
+FXc(3) = 0.15170278637770912
 
 Mean, Median, and Mode
-E(Y) = 1.0
-Med(Y) = 0.0
-Mode(Y) = 0.0
+E(X) = 2.5
+Med(X) = 2.0
+Mode(X) = 3.0
 
 Variance and Standard Deviation
-Var(Y) = 2.0
-SD(Y) = 1.4142135623730951
+Var(X) = 0.9868421052631579
+SD(X) = 0.9933992677987828
 
 Skewness and Kurtosis
-Skew(Y) = 2.1213203435596424
-Kurt(Y) = 6.5
+Skew(X) = 0.0
+Kurt(X) = -0.24313725490196078
 
 Entropy
-H(Y) = 1.3862943611198906
+H(X) = 1.4101789925890316
