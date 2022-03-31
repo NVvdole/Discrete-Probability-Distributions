@@ -1,0 +1,85 @@
+Multivariate Hypergeometric Distribution
+
+N = population size
+K1 = Category 1 population successes
+K2 = Category 2 population successes
+K3 = Category 3 population successes
+n = draws
+x1 = Category 1 successes
+x2 = Category 2 successes
+x3 = Category 3 successes
+
+Enter N: 20
+Enter K1: 4
+Enter K2: 6
+Enter K3: 10
+Enter n: 6
+Enter x1: 1
+Enter x2: 2
+Enter x3: 3
+
+PMFs
+pX1,X2,X3(1, 2, 3) = 0.18575851393188852
+pX1(1) = 0.4507739938080489
+pX2(2) = 0.38738390092879293
+pX3(3) = 0.37151702786377755
+
+CDFs
+FX1(1) = 0.6573787409700711
+FX2(2) = 0.7747678018575864
+FX3(3) = 0.6857585139318891
+
+CCDFs
+FX1c(1) = 0.3426212590299275
+FX2c(2) = 0.22523219814241524
+FX3c(3) = 0.31424148606811136
+
+Means
+E(X1) = 1.2000000000000002
+E(X2) = 1.7999999999999998
+E(X3) = 3.0
+
+Medians
+Med(X1) = 1.0
+Med(X2) = 2.0
+Med(X3) = 3.0
+
+Modes
+Mode(X1) = 1.0
+Mode(X2) = 2.0
+Mode(X3) = 3.0
+
+Variances
+Var(X1) = 0.7073684210526315
+Var(X2) = 0.9284210526315789
+Var(X3) = 1.105263157894737
+
+Standard Deviations
+SD(X1) = 0.8410519728605549
+SD(X2) = 0.9635460822563594
+SD(X3) = 1.0513149660756937
+
+Skewnesses
+Skew(X1) = 0.3170632437371139
+Skew(X2) = 0.1845036589858486
+Skew(X3) = 0.0
+
+Kurtoses
+Kurt(X1) = -0.31897759103641454
+Kurt(X2) = -0.22657952069716775
+Kurt(X3) = -0.1792717086834734
+
+Entropies
+H(X1) = 1.2245211301842696
+H(X2) = 1.3740882702776414
+H(X3) = 1.4680039160565335
+
+Covariances
+Cov(X1, X2) = -0.2652631578947368
+Cov(X1, X3) = -0.4421052631578947
+Cov(X2, X3) = -0.6631578947368421
+
+Correlation Coefficients
+Corr(X1, X2) = -0.32732683535398854
+Corr(X1, X3) = -0.49999999999999994
+Corr(X2, X3) = -0.654653670707977
