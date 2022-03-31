@@ -1,0 +1,28 @@
+Discrete Uniform Distribution
+
+v = values
+x = observed value
+
+Enter v: 8
+Enter x: 3
+
+PMF, CDF, and CCDF
+pX(3) = 0.125
+FX(3) = 0.375
+FXc(3) = 0.625
+
+Mean, Median, and Mode
+E(X) = 4.5
+Med(X) = 4.5
+Mode(X) = N/A
+
+Variance and Standard Deviation
+Var(X) = 5.25
+SD(X) = 2.29128784747792
+
+Skewness and Kurtosis
+Skew(X) = 0.0
+Kurt(X) = -1.2380952380952381
+
+Entropy
+H(X) = 2.0794415416798357
