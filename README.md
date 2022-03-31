@@ -1,5 +1,3 @@
-# Welcome!
+# Discrete Probability Distrbutions
 
-Simply select a .py file to get started!
-
-(NOTE: I recommend using either Spyder or Python IDLE to run the .py files)
+A repository containing .py files that demonstrate the concept of discrete probability distributions.
