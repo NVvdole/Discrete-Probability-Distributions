@@ -1,0 +1,28 @@
+Geometric Distribution 2
+
+p = success probability
+y = failures
+
+Enter p: 0.5
+Enter y: 4
+
+PMF, CDF, and CCDF
+pY(4) = 0.03125
+FY(4) = 0.96875
+FYc(4) = 0.03125
+
+Mean, Median, and Mode
+E(Y) = 1.0
+Med(Y) = 0.0
+Mode(Y) = 0.0
+
+Variance and Standard Deviation
+Var(Y) = 2.0
+SD(Y) = 1.4142135623730951
+
+Skewness and Kurtosis
+Skew(Y) = 2.1213203435596424
+Kurt(Y) = 6.5
+
+Entropy
+H(Y) = 1.3862943611198906
