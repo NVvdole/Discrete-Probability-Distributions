@@ -1,0 +1,30 @@
+Negative Binomial Distribution 2
+
+k = successes
+p = success probability
+y = failures
+
+Enter k: 3
+Enter p: 0.5
+Enter y: 2
+
+PMF, CDF, and CCDF
+pY(2) = 0.1875
+FY(2) = 0.5
+FYc(2) = 0.5
+
+Mean, Median, and Mode
+E(Y) = 3.0
+Med(Y) = 2.0
+Mode(Y) = 2.0
+
+Variance and Standard Deviation
+Var(Y) = 6.0
+SD(Y) = 2.449489742783178
+
+Skewness and Kurtosis
+Skew(Y) = 1.2247448713915892
+Kurt(Y) = 2.1666666666666665
+
+Entropy
+H(Y) = 2.1596024856308116
